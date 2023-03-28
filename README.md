@@ -1,25 +1,27 @@
  <div align="center">
-
   <img width="600px" src="https://user-images.githubusercontent.com/116208494/228307770-ee387f70-45b1-4532-a2f3-4599c7a4b54e.jpg" />
-
   <p>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=31&pause=1000&color=8257F7FF&center=true&width=900&height=170&lines=Hi!+I'm+Anna++;and+I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=31&pause=1000&color=8257F7FF&center=true&width=900&height=60&lines=Hi!+I'm+Anna++;and+I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+    <p>I ♥︎ coffee && I ☺︎ icons && I ☻ table-football </p>
     </p>
+  
   </div>
 
-
-
-
 ## About me
-
 <li> 👾 I've just finished a Full-Stack Web Development Bootcamp </li>
 <li> 🔭 I’m currently looking for a Junior Web Developer Position </li>
 <li> 🌱 I'm learning TypeScript </li>
+<li> 🧩  Pronouns: she/her </li>
 <li> 💬 I speak German, English, Spanish and some हिंदी </li>
 <li> 🏠 I live in Germany </li>
-<li> 😄 Pronouns: she/her </li>
-<li> I ☻ table-football </li>
-<li> I ♥︎ coffee </li>
+
+
+
+ 
+## Contact
+<a href="https://www.linkedin.com/in/anna-hartmann-210688266/">
+      </a>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 
 ## Languages and Tools
 <div align="center">
@@ -35,3 +37,4 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
