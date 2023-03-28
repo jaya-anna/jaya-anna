@@ -1,10 +1,8 @@
  <div align="center">
+   <p >I ♥︎ coffee && I ☺︎ icons && I ☻ table-football </p>
   <img width="600px" src="https://user-images.githubusercontent.com/116208494/228307770-ee387f70-45b1-4532-a2f3-4599c7a4b54e.jpg" />
-  <p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=31&pause=1000&color=8257F7FF&center=true&width=900&height=60&lines=Hi!+I'm+Anna++;and+I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
-    <p>I ♥︎ coffee && I ☺︎ icons && I ☻ table-football </p>
-    </p>
-  
+ <a href="https://git.io/typing-svg"><img height= 100 src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=31&pause=1000&color=8257F7FF&center=true&width=900&height=50&lines=Hi!+I'm+Anna++;and+I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+
   </div>
 
 ## About me
@@ -15,13 +13,12 @@
 <li> 💬 I speak German, English, Spanish and some हिंदी </li>
 <li> 🏠 I live in Germany </li>
 
-
-
- 
 ## Contact
+<div>
 <a href="https://www.linkedin.com/in/anna-hartmann-210688266/">
-      </a>
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+</div>
 
 ## Languages and Tools
 <div align="center">
