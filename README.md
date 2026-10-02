@@ -1,7 +1,7 @@
 <div align="center">
-   <p >I ♥︎ coffee && I ☺︎ icons && I ☻ table-football </p>
-  <img width="600px" src="https://user-images.githubusercontent.com/116208494/228307770-ee387f70-45b1-4532-a2f3-4599c7a4b54e.jpg" />
- <a href="https://git.io/typing-svg"><img height= 100 src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=31&pause=1000&color=8257F7FF&center=true&width=900&height=50&lines=Hi!+I'm+Anna++[...]
+    <p >I ♥︎ coffee && I ☺︎ icons && I ☻ table-football </p>
+   <img width="600px" src="https://user-images.githubusercontent.com/116208494/228307770-ee387f70-45b1-4532-a2f3-4599c7a4b54e.jpg" />
+  <a href="https://git.io/typing-svg"><img height= 100 src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=31&pause=1000&color=8257F7FF&center=true&width=900&height=50&lines=Hi!+I'm+Anna+and+a+Full-Stack+Developer;I+love+building+web+experiences;Let's+connect!" /></a>
 </div>
 
 ## About me
